@@ -411,11 +411,4 @@ http://localhost:8080/inventario/api
 
 ---
 
-## Autores
 
-Desarrollado para la asignatura de **Programación Web / Desarrollo de Aplicaciones Empresariales**  
-**Fundación Universitaria Compensar** — 2025
-
----
-
-> _"Del inventario al cliente, trazabilidad total."_
